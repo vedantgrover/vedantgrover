@@ -1,4 +1,4 @@
-Hey there!
+# Hey there!
 
 My name is Vedant (also known as BladeDurman or Freyr) and I am a Java developer!
 
@@ -9,4 +9,5 @@ Currently I know Java, HTML/CSS/JS and Python. I'm learning more advanced python
 I'mma go back to go do whatever I was about to do. Catch you later! Don't die byeeee!!!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantgrover&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantgrover&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
