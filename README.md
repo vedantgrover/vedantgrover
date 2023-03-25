@@ -14,7 +14,7 @@ I love to swim, code, play the drums, and bike. I enjoy being outdoors (ironic h
 
 I also really want a dog 🐶
 
-<img align="right" alt="GIF" src="assets/coding.gif" width="408" height="318" />
+<!-- <img align="right" alt="GIF" src="assets/coding.gif" width="408" height="318" /> -->
   
 
 **Talking about Personal Stuffs:**
