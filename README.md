@@ -19,7 +19,7 @@ I also really want a dog 🐶
 **Talking about Personal Stuffs:**
 
 - <img src="assets/developer.gif" width="21" />&nbsp;&nbsp; I’m currently working on a virtual assistant that makes my life easier;
-- <img src="assets/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning Dart, and Flutter.
+- <img src="assets/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning C++ and Python.
 - <img src="assets/message.gif" width="21" />&nbsp;&nbsp; I love to work in groups and solve problems together.;
 - <img src="assets/physics_nerd.gif" width="21" />&nbsp;&nbsp; Physics nerd at heart;
 - <img src="assets/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: bladedurman@gmail.com or through my website;
