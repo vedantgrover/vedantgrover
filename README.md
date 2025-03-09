@@ -7,23 +7,19 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vedantgrover.vedantgrover)
 
-I am student who is aspiring to become a computer science engineer.
+I am student who is aspiring to create something awesome.
 
-I love to swim, code, play the drums, and bike. I enjoy being outdoors (ironic huh?) and am a huge perfectionist. 
-
-I also really want a dog 🐶
+I love to swim, code, play the drums, and bike. I enjoy being outdoors (ironic huh?) and am love video games.
 
 <!-- <img align="right" alt="GIF" src="assets/coding.gif" width="408" height="318" /> -->
-  
 
-**Talking about Personal Stuffs:**
+**Some more stuff about me:**
 
-- <img src="assets/developer.gif" width="21" />&nbsp;&nbsp; I’m currently working on a virtual assistant that makes my life easier;
-- <img src="assets/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning C++ and Python.
+- <img src="assets/developer.gif" width="21" />&nbsp;&nbsp; I’m currently working on an autonomous indoor rover;
+- <img src="assets/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning C++, C, Haskell, and Python.
 - <img src="assets/message.gif" width="21" />&nbsp;&nbsp; I love to work in groups and solve problems together.;
 - <img src="assets/physics_nerd.gif" width="21" />&nbsp;&nbsp; Physics nerd at heart;
-- <img src="assets/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: bladedurman@gmail.com or through my website;
-
+- <img src="assets/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: bladedurman@gmail.com or through my <a href="https://vedantgrover.com" target="_blank">website</a>;
 </br>
 
 📊 **This Week I Spent My Time On:**
